@@ -250,6 +250,12 @@ li + li {
   font-size: 0.95rem;
 }
 
+.language-jump {
+  margin: 0 0 1rem;
+  font-size: 0.92rem;
+  text-align: right;
+}
+
 .document section + section {
   margin-top: 4rem;
   padding-top: 1rem;
